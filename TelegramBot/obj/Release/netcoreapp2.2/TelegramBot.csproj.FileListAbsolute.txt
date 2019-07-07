@@ -1,0 +1,14 @@
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\bin\Release\netcoreapp2.2\TelegramBot.deps.json
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\bin\Release\netcoreapp2.2\TelegramBot.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\bin\Release\netcoreapp2.2\TelegramBot.runtimeconfig.dev.json
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\bin\Release\netcoreapp2.2\TelegramBot.dll
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\bin\Release\netcoreapp2.2\TelegramBot.pdb
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\obj\Release\netcoreapp2.2\TelegramBot.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\obj\Release\netcoreapp2.2\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\obj\Release\netcoreapp2.2\TelegramBot.RazorAssemblyInfo.cache
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\obj\Release\netcoreapp2.2\TelegramBot.RazorAssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\obj\Release\netcoreapp2.2\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\obj\Release\netcoreapp2.2\TelegramBot.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\obj\Release\netcoreapp2.2\TelegramBot.RazorTargetAssemblyInfo.cache
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\obj\Release\netcoreapp2.2\TelegramBot.dll
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBot\obj\Release\netcoreapp2.2\TelegramBot.pdb
