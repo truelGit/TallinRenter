@@ -10,5 +10,6 @@ namespace TelegramBot.Models
 		public const string KvarplataKeyword = "kvarplata";
 		public const string ElectricityKeyword = "electricity";
 		public const string GasKeyword = "gas";
+		public const decimal RentPrice = 22000;
 	}
 }
