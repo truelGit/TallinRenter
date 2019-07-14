@@ -1,0 +1,17 @@
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\bin\Debug\netcoreapp2.2\TelegramBotUnitTests.deps.json
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\bin\Debug\netcoreapp2.2\TelegramBotUnitTests.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\bin\Debug\netcoreapp2.2\TelegramBotUnitTests.runtimeconfig.dev.json
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\bin\Debug\netcoreapp2.2\TelegramBotUnitTests.dll
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\bin\Debug\netcoreapp2.2\TelegramBotUnitTests.pdb
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\bin\Debug\netcoreapp2.2\TelegramBot.dll
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\bin\Debug\netcoreapp2.2\TelegramBot.pdb
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\obj\Debug\netcoreapp2.2\TelegramBotUnitTests.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\obj\Debug\netcoreapp2.2\TelegramBotUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\obj\Debug\netcoreapp2.2\TelegramBotUnitTests.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\obj\Debug\netcoreapp2.2\TelegramBotUnitTests.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\obj\Debug\netcoreapp2.2\TelegramBotUnitTests.csproj.CopyComplete
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\obj\Debug\netcoreapp2.2\TelegramBotUnitTests.dll
+C:\Users\Aleksandr\source\repos\TelegramBot\TelegramBotUnitTests\obj\Debug\netcoreapp2.2\TelegramBotUnitTests.pdb
